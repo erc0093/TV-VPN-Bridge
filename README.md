@@ -1,10 +1,5 @@
 [中文说明](./README_zh.md)
 
-# TV-VPN-Bridge
-Share your Mac VPN connection to TV and other devices, without routers or extra setup.
-
-
-
 # TV VPN Bridge
 
 Share your Mac VPN connection to LG TV and other devices, without routers or extra setup.
